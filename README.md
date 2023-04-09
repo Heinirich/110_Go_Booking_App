@@ -1,6 +1,6 @@
 # 110_Go_Booking_App
 
-This is repository for bookings and reservations
+This is repository for bookings and reservations project
 
 - Built in Go Version 1.15
 - Uses [chi router](https://github.com/go-chi/chi/v5) router
